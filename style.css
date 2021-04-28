@@ -1,0 +1,39 @@
+body {
+    text-align: center;
+    margin: 0;
+    font-family: 'Harmattan', sans-serif;
+}
+
+#h1 {
+    font-family: 'UnifrakturMaguntia', cursive;
+    font-size: 4em;
+    background-color: rgb(3, 25, 38);
+    color: rgb(244, 233, 205);
+    padding: .5em;
+    box-shadow: 1px 1px 1px 1px rgb(244, 233, 205);
+}
+
+#generate {
+    font-family: 'Harmattan', sans-serif;
+    font-size: 4em;
+    font-weight:bolder;
+    padding: .5em;
+    margin: .5em;
+    box-shadow: 1px 1px 1px 2px rgb(0, 0, 0);
+    background-color: rgb(3, 25, 38);
+    color: rgb(244, 233, 205);
+    border:rgb(0, 0, 0);
+    border-radius: 20px;
+    outline: none;
+}
+
+#sentences p {
+    box-shadow: 1px 1px 1px 1px rgb(0, 0, 0);
+    background-color: rgb(244, 233, 205);
+    margin: 2em;
+    margin-left: 15em;
+    margin-right: 15em;
+    padding: 2em;
+    border-radius: 1px;
+    font-size: 1.5em;
+}
